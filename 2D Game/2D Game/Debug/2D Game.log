@@ -1,0 +1,5 @@
+﻿  main.cpp
+B:\2D Game\2D Game\testlib.h(158,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+B:\2D Game\2D Game\testlib.h(158,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+     Creating library B:\2D Game\Debug\2D Game.lib and object B:\2D Game\Debug\2D Game.exp
+  2D Game.vcxproj -> B:\2D Game\Debug\2D Game.exe
