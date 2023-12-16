@@ -1,0 +1,5 @@
+﻿  Example-5.6.2.cpp
+  Example-5.6.3.cpp
+B:\Lab 14\Example-5.6.3.cpp(125,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab 14.vcxproj -> B:\Lab 14\Debug\Lab 14.exe
