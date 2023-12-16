@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\maham\OneDrive\Desktop\CG\Lab-6\Lab-6\pixMap.h(269,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\maham\OneDrive\Desktop\CG\Lab-6\Lab-6\pixMap.h(279,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\maham\OneDrive\Desktop\CG\Lab-6\Lab-6\pixMap.h(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maham\OneDrive\Desktop\CG\Lab-6\Lab-6\pixMap.h(334,21): warning C4018: '<': signed/unsigned mismatch
+  Lab-6.vcxproj -> C:\Users\maham\OneDrive\Desktop\CG\Lab-6\Debug\Lab-6.exe
