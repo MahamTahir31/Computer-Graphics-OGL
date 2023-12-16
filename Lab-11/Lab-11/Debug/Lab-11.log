@@ -1,0 +1,5 @@
+﻿  Canvas.cpp
+  Dino-non-rotating.cpp
+C:\Users\maham\OneDrive\Desktop\CG\Lab-11\Lab-11\Dino-non-rotating.cpp(92,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab-11.vcxproj -> C:\Users\maham\OneDrive\Desktop\CG\Lab-11\Debug\Lab-11.exe
