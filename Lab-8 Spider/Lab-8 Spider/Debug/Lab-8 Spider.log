@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\maham\OneDrive\Desktop\CG\Lab-8 Spider\Lab-8 Spider\RGBA.h(269,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\maham\OneDrive\Desktop\CG\Lab-8 Spider\Lab-8 Spider\RGBA.h(279,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\maham\OneDrive\Desktop\CG\Lab-8 Spider\Lab-8 Spider\RGBA.h(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maham\OneDrive\Desktop\CG\Lab-8 Spider\Lab-8 Spider\RGBA.h(334,21): warning C4018: '<': signed/unsigned mismatch
+  Lab-8 Spider.vcxproj -> C:\Users\maham\OneDrive\Desktop\CG\Lab-8 Spider\Debug\Lab-8 Spider.exe
